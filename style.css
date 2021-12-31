@@ -2,7 +2,7 @@ html, body {
     overflow-x: clip;
 }
 body {
-    background-color: thistle;
+    background-color: orange;
 }
 /* width */
 ::-webkit-scrollbar {
