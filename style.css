@@ -12,7 +12,6 @@ body {
 }
 /* Track */
 ::-webkit-scrollbar-track {
-    border-radius: 10px;
     background-color: coral;
 }
 /* Handle */
