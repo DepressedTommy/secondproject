@@ -12,6 +12,7 @@ body {
 }
 /* Track */
 ::-webkit-scrollbar-track {
+    -webkit-box-shadow: inset 0 0 6px rgba(0,0,0,0.3);
 	background-color: #F5F5F5;
 }
 /* Handle */
@@ -20,5 +21,4 @@ body {
 }
 #grad {
     background-image: linear-gradient( pink, #db6c6c);
-    margin-left: -10px;
 }
