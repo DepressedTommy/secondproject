@@ -21,4 +21,5 @@ body {
 }
 #grad {
     background-image: linear-gradient( pink, #db6c6c);
+    margin-left: -10px;
 }
