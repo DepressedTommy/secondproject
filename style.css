@@ -2,7 +2,7 @@ html, body {
     overflow-x: clip;
 }
 body {
-    background-color: coral;
+    background-image: linear-gradient( pink, #db6c6c);
 }
 /* width */
 ::-webkit-scrollbar {
