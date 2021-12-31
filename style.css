@@ -23,5 +23,5 @@ body {
 					   color-stop(.5, transparent), to(transparent));
 }
 #grad {
-    background-image: linear-gradient(to bottom right, rgb(255, 0, 85), rgb(255, 0, 0));
+    background-image: linear-gradient(to bottom right, #db6c6c, pink);
 }
