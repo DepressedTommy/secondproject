@@ -9,7 +9,6 @@ body {
 ::-webkit-scrollbar {
     width: 10px;
 	background-color: #F5F5F5;
-    border-radius: 20px;
 }
 /* Track */
 ::-webkit-scrollbar-track {
@@ -18,7 +17,7 @@ body {
 /* Handle */
 ::-webkit-scrollbar-thumb {
     background-color: whitesmoke;
-	
+	border-radius: 20px;
 	background-image: -webkit-gradient(linear, 0 0, 0 100%,
 	                   color-stop(.5, rgba(255, 255, 255, .2)),
 					   color-stop(.5, transparent), to(transparent));
