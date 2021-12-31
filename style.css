@@ -9,11 +9,11 @@ body {
 ::-webkit-scrollbar {
     width: 10px;
 	background-color: #F5F5F5;
+    border-radius: 20px;
 }
 /* Track */
 ::-webkit-scrollbar-track {
     background-color: coral;
-    border-radius: 20px;
 }
 /* Handle */
 ::-webkit-scrollbar-thumb {
